@@ -1,4 +1,4 @@
-# Card-Rouletter
+# Card-Roulette
 A game that chooses a random name from user input to pay for the group meal
 
 import random
